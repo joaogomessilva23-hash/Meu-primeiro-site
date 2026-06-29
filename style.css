@@ -12,12 +12,12 @@ main{
 background-color: rgb(29, 29, 29);
 color: red;
 max-width: 800px;
-margin: o auto;
+margin: 0 auto;
 padding: 16px;
 display: flex;
-
 }
 
-img
+img {
 width: 200px;
 height: 200px;
+}
